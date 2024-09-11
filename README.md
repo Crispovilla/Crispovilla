@@ -3,7 +3,7 @@
 ## Desarrollador Full Stack | Python, Django, JavaScript, ReactJS 🚀
 
 - **Soy de Osorno, Chile.**
-- 
+  
 - **Soy Analista Programador con conocimientos en desarrollo de software, especializado en tecnologías backend y frontend.**  
 
 - **Actualmente me dedico al desarrollo web como freelance, ayudando a crear aplicaciones web robustas y eficientes.** 
