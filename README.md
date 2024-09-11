@@ -2,16 +2,13 @@
 
 ## Desarrollador Full Stack | Python, Django, JavaScript, ReactJS 🚀
 
-- **¿De dónde eres?**  
-  Soy de Osorno, Chile.
+- **Soy de Osorno, Chile.**  
 
-- **¿A qué te dedicas?**  
-  Actualmente me dedico al desarrollo web como freelance, ayudando a crear aplicaciones web robustas y eficientes.
+- **Actualmente me dedico al desarrollo web como freelance, ayudando a crear aplicaciones web robustas y eficientes.** 
 
-- **¿Cuál es tu formación?**  
-  Soy Analista Programador con conocimientos en desarrollo de software, especializado en tecnologías backend y frontend.
+- **Soy Analista Programador con conocimientos en desarrollo de software, especializado en tecnologías backend y frontend.**  
 
-- **¿Cuáles son tus experiencias previas?**
+- **Experiencias previas**
   - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear in sistema de gestión de emergencias.
   - Colaborador en proyectos open-source **LEARNPROMPTING.ORG**, como traductor de documentación del inglés al español, contribuyendo a la comunidad y aumentando el alcance.
 
