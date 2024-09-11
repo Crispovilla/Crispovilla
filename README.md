@@ -51,6 +51,7 @@ Soy un desarrollador apasionado por el código limpio, la innovación y las tecn
 
 - [**Web - io**](https://web-io.netlify.app/) - Chat en tiempo real.
 - [**OnlyFlans**](https://crispo.pythonanywhere.com/) - Proyecto OnlyFlans con mejoras sustanciales.
+- [**Nabuk**](https://nabuk.netlify.app/) - Sistema de gestión de bibliotecas.
 
 ---
 
