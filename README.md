@@ -9,7 +9,7 @@
 - **Actualmente me dedico al desarrollo web como freelance, ayudando a crear aplicaciones web robustas y eficientes.** 
 
 - **Experiencias previas**
-  - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear in sistema de gestión de emergencias.
+  - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear un sistema de gestión de emergencias.
   - Colaborador en proyectos open-source **LEARNPROMPTING.ORG**, como traductor de documentación del inglés al español, contribuyendo a la comunidad y aumentando el alcance.
 
 [![GitHub followers](https://img.shields.io/github/followers/Crispovilla?label=Follow&style=social)](https://github.com/Crispovilla)
