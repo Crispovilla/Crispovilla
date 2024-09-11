@@ -12,8 +12,8 @@
   Soy Analista Programador con conocimientos en desarrollo de software, especializado en tecnologías backend y frontend.
 
 - **¿Cuáles son tus experiencias previas?**
-  - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear aplicaciones empresariales.
-  - Colaborador en proyectos open-source, como traductor de documentación del inglés al español, contribuyendo a la comunidad.
+  - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear in sistema de gestión de emergencias.
+  - Colaborador en proyectos open-source **LEARNPROMPTING.ORG**, como traductor de documentación del inglés al español, contribuyendo a la comunidad y aumentando el alcance.
 
 [![GitHub followers](https://img.shields.io/github/followers/Crispovilla?label=Follow&style=social)](https://github.com/Crispovilla)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)](https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)
