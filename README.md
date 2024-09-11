@@ -15,7 +15,7 @@
   - Desarrollador Junior en **PLADEM SPA**, trabajando con tecnologías como Angular y Node.js, donde fui parte de un equipo encargado de crear aplicaciones empresariales.
   - Colaborador en proyectos open-source, como traductor de documentación del inglés al español, contribuyendo a la comunidad.
 
-[![GitHub followers](https://img.shields.io/github/followers/tu-usuario?label=Follow&style=social)](https://github.com/tu-usuario)
+[![GitHub followers](https://img.shields.io/github/followers/Crispovilla?label=Follow&style=social)](https://github.com/Crispovilla)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)](https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)
 
 ---
@@ -38,15 +38,15 @@ Soy un desarrollador apasionado por el código limpio, la innovación y las tecn
 
 - **Bases de Datos**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
 
-- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+- **Herramientas**: ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ---
 
 ### 📊 GitHub Stats
 
-![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?Crispovilla&show_icons=true&theme=radical)
+![Tus estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Crispovilla&show_icons=true&theme=radical)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?Crispovilla&layout=compact&theme=radical)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Crispovilla&layout=compact&theme=radical)
 
 ---
 
@@ -63,4 +63,3 @@ Soy un desarrollador apasionado por el código limpio, la innovación y las tecn
 - [Portfolio](https://crispovilla.netlify.app/)
 
 ¡Gracias por visitar mi perfil! 😄
-
