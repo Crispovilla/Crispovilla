@@ -25,7 +25,7 @@
 Soy un desarrollador apasionado por el código limpio, la innovación y las tecnologías emergentes. Me especializo en Python con Django en el backend y React en el frontend.
 
 - 🌱 Aprendiendo sobre: **Desarrollo web, IA y Machine Learning**
-- 💬 Pregúntame sobre: **Python, Django, JavaScript React**
+- 💬 Pregúntame sobre: **Python, Django, JavaScript, React**
 - 📫 Contáctame: [cristobal.villarroelalvarado@gmail.com](mailto:cristobal.villarroelalvarado@gmail.com)
 
 ---
