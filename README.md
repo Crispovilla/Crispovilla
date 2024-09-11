@@ -6,7 +6,7 @@
   Soy de Osorno, Chile.
 
 - **¿A qué te dedicas?**  
-  Actualmente me dedico al desarrollo web como freelance, ayudando a empresas y proyectos personales a crear aplicaciones web robustas y eficientes.
+  Actualmente me dedico al desarrollo web como freelance, ayudando a crear aplicaciones web robustas y eficientes.
 
 - **¿Cuál es tu formación?**  
   Soy Analista Programador con conocimientos en desarrollo de software, especializado en tecnologías backend y frontend.
