@@ -64,7 +64,8 @@ I'm a developer passionate about clean code, innovation, and emerging technologi
 - [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)
 - [Portfolio](https://crispovilla.netlify.app/)
 
-> **"I've spent hours debugging template errors, dealing with migrations...**  
-> **and yes, I can `center a div` too."** 😅
+> *"I've spent hours debugging template errors, dealing with migrations...*  
+> *and yes, I can `center a div` too."* 😅
+
 
 Thank you for visiting my profile! 😄
