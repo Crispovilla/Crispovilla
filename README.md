@@ -5,7 +5,7 @@
 
 - **I'm from Osorno, Chile.**
   
-- **I am a Programmer Analyst with knowledge in software development, specializing in backend and frontend technologies.**
+- **I am a Web Developer with knowledge in software development, specializing in backend and frontend technologies.**
 
 - **Currently, I work as a freelance web developer, helping to create robust and efficient web applications.**
 
