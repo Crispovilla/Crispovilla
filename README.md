@@ -14,7 +14,7 @@
   - Contributor to open-source projects at **LEARNPROMPTING.ORG**, where I translated documentation from English to Spanish, contributing to the community and increasing its reach.
 
 [![GitHub followers](https://img.shields.io/github/followers/Crispovilla?label=Follow&style=social)](https://github.com/Crispovilla)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)](https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/crispo-villarroel/)](https://www.linkedin.com/in/crispo-villarroel/)
 
 ---
 
