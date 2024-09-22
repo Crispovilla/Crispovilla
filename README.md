@@ -61,7 +61,7 @@ I'm a developer passionate about clean code, innovation, and emerging technologi
 
 ### 🌐 Find me on the web
 
-- [LinkedIn](https://www.linkedin.com/in/crist%C3%B3bal-mat%C3%ADas-villarroel-alvarado-4b38a9150/)
+- [LinkedIn](https://www.linkedin.com/in/crispo-villarroel/)
 - [Portfolio](https://crispovilla.netlify.app/)
 
 > *"I've spent hours debugging template errors, dealing with migrations...*  
