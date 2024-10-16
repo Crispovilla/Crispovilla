@@ -62,7 +62,7 @@ I'm a developer passionate about clean code, innovation, and emerging technologi
 ### 🌐 Find me on the web
 
 - [LinkedIn](https://www.linkedin.com/in/crispo-villarroel/)
-- [Portfolio](https://crispovilla.netlify.app/)
+- [Portfolio](https://crispoiesvki.pythonanywhere.com)
 
 > *"I've spent hours debugging template errors, dealing with migrations...*  
 > *and yes, I can `center a div` too."* 😅
